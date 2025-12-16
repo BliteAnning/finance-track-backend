@@ -1,6 +1,6 @@
 import { isValidObjectId, Types } from "mongoose";
-import incomeModel from "../models/IncomeModel.js";
-import expenseModel from "../models/ExpenseModel.js";
+import incomeModel from "../models/incomeModel.js";
+import expenseModel from "../models/expenseModel.js";
 
 
 export const getDashboardData = async(req,res)=>{
