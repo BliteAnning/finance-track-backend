@@ -1,4 +1,4 @@
-import expenseModel from "../models/ExpenseModel.js";
+import expenseModel from "../models/expenseModel.js";
 import xlsx from 'xlsx'
 
 //add an expense
